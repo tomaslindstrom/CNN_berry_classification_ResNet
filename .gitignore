@@ -1,0 +1,7 @@
+images/
+.ipynd_checkpoints/
+.ipynb_checkpoints/Residual Networks (ResNet)- Application Woodberry Classifications v2a-checkpoint.ipynb
+*.pyc
+datasets/test_signs.h5
+datasets/train_signs.h5
+ResNet50.h5
